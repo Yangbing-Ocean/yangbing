@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   #avatar           : "yangbing3.png"
-  ![avatar](https://github.com/Yangbing-Ocean/yangbing/blob/master/images/2721.jpg)
+  ![avatar](data:image/yangbing3.png)
   name             : "Yangbing Xu | 徐杨冰"
   pronouns         : # example: "he/his"  
   bio              : "Short biography for the left-hand sidebar"
