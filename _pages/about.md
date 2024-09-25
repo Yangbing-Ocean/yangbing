@@ -17,3 +17,5 @@ I am working under the supervision of [Prof. Charmaine Yung](https://www.charmai
 3. What is the evolutionary history of the early green lineage? Giant viruses?
 4. Who is the host of a specific marine viruses?
 5. How climate change will influence eukaryotic phytoplankton communities?
+
+You can find my CV here: [Yangbing XU's Curriculum Vitae](../files/CV_Yangbing_Xu.pdf).
