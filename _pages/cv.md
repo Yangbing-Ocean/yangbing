@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here: [Yangbing XU's Curriculum Vitae](../pages/CV_Yangbing_Xu_20240925.pdf)
+You can find my CV here: [Yangbing XU's Curriculum Vitae](../_pages/CV_Yangbing_Xu_20240925.pdf)
 
 Education
 ======
