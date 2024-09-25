@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ![avatar]("https://github.com/Yangbing-Ocean/yangbing/blob/master/images/yangbing2.jpg")
+  avatar           : ![avatar](https://github.com/Yangbing-Ocean/yangbing/blob/master/images/yangbing2.jpg)
   name             : "Yangbing Xu | 徐杨冰"
   pronouns         : # example: "he/his"  
   bio              : "Short biography for the left-hand sidebar"
