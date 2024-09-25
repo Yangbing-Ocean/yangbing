@@ -11,7 +11,8 @@ Hi! My name is **Yangbing Xu** (**徐杨冰** in Chinese) and I am a PhD candida
 
 I am working under the supervision of [Prof. Charmaine Yung](https://www.charmaineyung.com/). My research delved into the ecology and evolution of eukaryotic phytoplankton and their viruses with the combination of traditional cultivation, physiology, and multi-omics approaches.
 
-**I am currently addressing the following questions: **
+I am currently addressing the following questions: 
+======
 1. How much diversity is there in eukaryotic phytoplankton and viruses? 
 2. Can we obtain high-quality eukaryotic/viral genomes without cultivation?
 3. What is the evolutionary history of the early green lineage? Giant viruses?
