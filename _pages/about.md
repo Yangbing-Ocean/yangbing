@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is **Yangbing Xu** (**徐杨冰** in Chinese) and I am a PhD candidate in the Department of Ocean Science at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). I received my BS in Aquaculture in 2019 from the [Ocean University of China (OUC)](https://www.ouc.edu.cn/).
+Hi! My name is **Yangbing Xu** (**徐杨冰** in Chinese) and I am a Ph.D. candidate in the Department of Ocean Science at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). I received my BS in Aquaculture in 2019 from the [Ocean University of China (OUC)](https://www.ouc.edu.cn/).
 
 I am working under the supervision of [Prof. Charmaine Yung](https://www.charmaineyung.com/). My research delved into the ecology and evolution of eukaryotic phytoplankton and their viruses with the combination of traditional cultivation, physiology, and multi-omics approaches.
 
