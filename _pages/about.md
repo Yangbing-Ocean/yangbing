@@ -18,4 +18,4 @@ I am working under the supervision of [Prof. Charmaine Yung](https://www.charmai
 4. Who is the host of a specific marine viruses?
 5. How climate change will influence eukaryotic phytoplankton communities?
 
-You can find my CV here: [Yangbing XU's Curriculum Vitae](https://github.com/Yangbing-Ocean/yangbing/blob/master/files/CV_Yangbing_Xu.pdf).
+You can find my CV here: [Yangbing XU's Curriculum Vitae](../assets/CV_Yangbing_Xu.pdf).
