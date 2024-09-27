@@ -17,6 +17,7 @@ redirect_from:
 2023
 ======
 * **Confect Symposium 2023 Marine Microbial Virus Ecology and Evolution, Bergen, Norway**: Unraveling virus-phytoplankton interactions using integrated cultivation and multi-omics. (Poster)
+![avatar](https://github.com/Yangbing-Ocean/yangbing/blob/master/images/norway.jpg)
 
 
   
