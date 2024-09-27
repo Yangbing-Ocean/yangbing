@@ -1,58 +1,21 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Talks and presentations"
+permalink: /talks/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-You can find my CV here: [Yangbing XU's Curriculum Vitae](file:///Users/xyb/Desktop/CV_Yangbing_Xu.pdf)
-
-Education
+2024
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Marine Microbes Gordon Research Seminar (GRS), Les Diablerets, Switzerland**: Tracking the seasonal interactions of virus-microbe in subtropical waters using multiomics. (Oral)
+* **Marine Microbes Gordon Research Conference (GRC), Les Diablerets, Switzerland**: Hidden genomic diversity drives niche partitioning in a cosmopolitan eukaryotic picophytoplankton. (Poster)
+* **International Webinar Series for Young Scholars: “Cutting-edge Research on Marine Science and Engineering”, Hong Kong SAR, China**: Exploring the Genomic Landscape: Diversity and Niche Adaptation in a Cosmopolitan Eukaryotic Picophytoplankton. (Oral)
 
-Work experience
+2023
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Confect Symposium 2023 Marine Microbial Virus Ecology and Evolution, Bergen, Norway**: Unraveling virus-phytoplankton interactions using integrated cultivation and multi-omics. (Poster)
 
 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
