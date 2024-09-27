@@ -12,9 +12,9 @@ Hi! My name is **Yangbing Xu** (**徐杨冰** in Chinese) and I am a Ph.D. candi
 I am working under the supervision of [Prof. Charmaine Yung](https://www.charmaineyung.com/). My research delved into the ecology and evolution of eukaryotic phytoplankton and their viruses with the combination of traditional cultivation, physiology, and multi-omics approaches.
 
 ### I am currently interested in answering the following questions: 
-1. How much diversity is there in eukaryotic phytoplankton and viruses? 
-2. Can we obtain high-quality eukaryotic/viral genomes without cultivation?
-3. What is the evolutionary history of the early green lineage? Giant viruses?
+1. What is the extent of biodiversity within eukaryotic phytoplankton and the viruses that infect them? 
+2. Is it possible to acquire high-quality eukaryotic and viral genomes without the need for cultivation?
+3. What are the evolutionary origins and early diversification of the early green lineage? and how about giant viruses?
 4. Who is the host of a specific marine viruses?
-5. How climate change will influence eukaryotic phytoplankton communities?
+5. How will the impacts of climate change reshape the composition and dynamics of eukaryotic phytoplankton communities?
 
