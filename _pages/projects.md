@@ -15,7 +15,7 @@ I have a longstanding interest in marine phytoplankton. During my doctoral progr
 ======
 Having established algal cultures, I then sampled plenty of samples from various marine environments to isolate prasinoviruses from the Mamiellales hosts. We are examining the structural characteristics, decoding the genetic makeup, and elucidating the infection dynamics of these viruses. These Mamiellales-Prasinovirus model systems that we have developed offer deep insights into complex interactions between giant viruses and eukaryotic phytoplankton. One collaborative study with the GENOPHY group at the Observatoire Océanologique de Banyuls has been published (Thomy et al., ISME common., 2024).
 
-🌟Virus-host Dynamics in Changing Seas
+🌟Tracking virus-host dynamics in microbial communities from natural seawaters.
 ======
 Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
