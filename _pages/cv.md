@@ -63,7 +63,7 @@ Teaching
 Service and leadership
 ======
 * 08/2018 Oceanography Field Study in New Zealand 
-* 05/2016 Founder of the Volunteer of Volunteers for Campus Cleaning Club (OUC) 
+* 05/2016 Founder of the Volunteers for Campus Cleaning Club (OUC-VCCC) 
 * 01/2016-08/2016 Social survey on intangible cultural heritage
 * 07/2016 Clear Water Project of Jane Goodall's Roots & Shoots 
 * 03/2016-06/2016 Volunteer in community tutor 
