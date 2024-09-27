@@ -17,8 +17,8 @@ Having established algal cultures, I then sampled plenty of samples from various
 
 🌟Tracking virus-host dynamics in microbial communities from natural seawaters.
 ======
-Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Linking Virus-host pairs in natural communities is still one of the main open questions in environmental microbiology. In this project, I am investigating the seasonal dynamics of bacteriophages, eukaryotic viruses, and RNA viruses through our monthly metagenomic and metatranscriptomic data. I am employing cutting-edge metagenomic Hi-C with multiple virus-host prediction methods (e.g., sequence homology, CRISPR loci) to reveal substantial virus-host relationships directly from microbial communities, to elucidate the ecological significances of virus-host dynamics.
 
 🌟Genome-resolved insights into the diversity and functions of microbial community in subtropical waters
 ======
-Spring 2024: Academic Pages Collaborator
+I also 
