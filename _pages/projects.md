@@ -9,7 +9,7 @@ redirect_from:
 
 🌟The genomic diversity and adaptation of eukaryotic picophytoplankton Mamiellales
 ======
-I have a longstanding interest in phytoplankton. During my doctoral program, I isolated more than 300 Mamiellales strains from the South China Sea using strategies like selective media, flow cytometry, and plaque assays. I have purified and characterized several new clades or species from those cultures, including _Ostreococcus_ Clade E and F, _Bathycoccus_ Clade BIII, _Mantoniella tinhauana_. Leveraging long-read whole genome sequencing and global metagenomic data, I am looking into their biogeography, diversification, adaptation, and evolution. Part of the findings have been published in peer-reviewed journal articles (Xu et al., ISME J, 2024; Rey Redondo et al., Front. Microbiol., 2024).
+I have a longstanding interest in marine phytoplankton. During my doctoral program, I isolated more than 300 Mamiellales strains from the South China Sea using strategies like selective media, flow cytometry, and plaque assays. I have purified and characterized several new clades or species from those cultures, including _Ostreococcus_ Clade E and F, _Bathycoccus_ Clade BIII, _Mantoniella tinhauana_. Leveraging long-read whole genome sequencing and global metagenomic data, I am looking into their biogeography, diversification, adaptation, and evolution. Part of the findings have been published in peer-reviewed journal articles (Xu et al., ISME J, 2024; Rey Redondo et al., Front. Microbiol., 2024).
 
 🌟Insights into the phytoplankton-virus interactions through Mamiellales-Prasinovirus model system
 ======
