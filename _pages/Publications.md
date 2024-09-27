@@ -9,50 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here: [Yangbing XU's Curriculum Vitae](file:///Users/xyb/Desktop/CV_Yangbing_Xu.pdf)
+You can find my articles [here](https://scholar.google.com/citations?user=8cdJaOUAAAAJ&hl=zh-CN&oi=ao)
 
-Education
+Journal articles
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+5. **Xu, Y.**, Leung, S. K., Li, T. M., & Yung, C. C. (2024). Hidden genomic diversity drives niche partitioning in a cosmopolitan eukaryotic picophytoplankton. The ISME Journal, wrae163. [link](https://doi.org/10.1093/ismejo/wrae163)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+4. Thomy, J., Sanchez, F., Prioux, C., Yau, S., **Xu, Y.**, Mak, J., ... & Yung, C. C. (2024). Unveiling Prasinovirus diversity and host specificity through targeted enrichment in the South China Sea. ISME Communications, 4(1), ycae109. [link](https://doi.org/10.1093/ismeco/ycae109)
 
+3. Xu, W., **Xu, Y.**, Sun, R., Redondo, E. R., Leung, K. K., Wan, S. H., ... & Yung, C. C. (2024). Revealing the intricate temporal dynamics and adaptive responses of prokaryotic and eukaryotic microbes in the coastal South China Sea. Science of The Total Environment, 176019. [link](https://doi.org/10.1016/j.scitotenv.2024.176019)
 
+2. Rey Redondo, E., **Xu, Y.**, & Yung, C. C. (2024). Genomic characterisation and ecological distribution of Mantoniella tinhauana: a novel Mamiellophycean green alga from the Western Pacific. Frontiers in Microbiology, 15, 1358574. [link](https://doi.org/10.3389/fmicb.2024.1358574)
+
+1. Shang, L., **Xu, Y.**, Leaw, C. P., Lim, P. T., Wang, J., Chen, J., ... & Tang, Y. Z. (2021). Potent allelopathy and non-PSTs, non-spirolides toxicity of the dinoflagellate Alexandrium leei to phytoplankton, finfish and zooplankton observed from laboratory bioassays. Science of The Total Environment, 780, 146484. [link](https://doi.org/10.1016/j.scitotenv.2021.146484)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
