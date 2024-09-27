@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: yangbing-ocean.github.io/yangbing/cv/
 author_profile: true
 redirect_from:
   - /resume
