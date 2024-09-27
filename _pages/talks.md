@@ -11,7 +11,7 @@ redirect_from:
 ======
 * **Marine Microbes Gordon Research Seminar (GRS), Les Diablerets, Switzerland**: Tracking the seasonal interactions of virus-microbe in subtropical waters using multiomics. (Oral)
 * **Marine Microbes Gordon Research Conference (GRC), Les Diablerets, Switzerland**: Hidden genomic diversity drives niche partitioning in a cosmopolitan eukaryotic picophytoplankton. (Poster)
- ![avatar](images/GRC.jpg)
+ ![avatar](https://github.com/Yangbing-Ocean/yangbing/blob/master/images/GRC.jpg)
 * **International Webinar Series for Young Scholars: “Cutting-edge Research on Marine Science and Engineering”, Hong Kong SAR, China**: Exploring the Genomic Landscape: Diversity and Niche Adaptation in a Cosmopolitan Eukaryotic Picophytoplankton. (Oral)
 
 2023
