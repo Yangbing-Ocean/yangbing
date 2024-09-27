@@ -22,7 +22,7 @@ Honors and Awards
 ======
 * **2022,2023,2024** HKUST RedBird Academic Excellence Award for Continuing PhD Students
 * **2019** Outstanding Graduates of Shangdong Province
-* **2018** Excellent Student Scholarship (_The highest honor for undergraduate of OUC_) 
+* **2018** Excellent Student Scholarship (_The highest honor for undergraduate in OUC_) 
 * **2016,2017,2018** First Class Scholarship
 * **2016, 2017** National Scholarship
 * **2017** The Outstanding Young Volunteer 
@@ -60,7 +60,16 @@ Teaching
 * OCES 1001, The Earth as a Blue Planet, Spring 2021 
 * OCES 3003, Field Methods in Marine Studies, Fall 2022
 
-  
+Service and leadership
+======
+* 08/2018 Oceanography Field Study in New Zealand 
+* 05/2016 Founder of the Volunteer of Volunteers for Campus Cleaning Club (OUC) 
+* 01/2016-08/2016 Social survey on intangible cultural heritage
+* 07/2016 Clear Water Project of Jane Goodall's Roots & Shoots 
+* 03/2016-06/2016 Volunteer in community tutor 
+* 08/2015 Volunteer in "Sustainable Seafood Week" of WWF
+
+
 Publications
 ======
 * Shang, L., **Xu, Y.**, Leaw, C. P., Lim, P. T., Wang, J., Chen, J., ... & Tang, Y. Z. (2021). Potent allelopathy and non-PSTs, non-spirolides toxicity of the dinoflagellate _Alexandrium leei_ to phytoplankton, finfish and zooplankton observed from laboratory bioassays. _Science of The Total Environment_, 780, 146484. 
@@ -78,12 +87,4 @@ Presentations
 * Xu, Y. (2024). Exploring the Genomic Landscape: Diversity and Niche Adaptation in a Cosmopolitan Eukaryotic Picophytoplankton. International Webinar Series for Young Scholars: “Cutting-edge Research on Marine Science and Engineering”, Hong Kong SAR, China, 27 Jun. (Oral)
 
 
-Service and leadership
-======
-* 08/2018 Oceanography Field Study in New Zealand 
-* 05/2016 Founder of the Volunteer of Volunteers for Campus Cleaning Club (OUC) 
-* 01/2016-08/2016 Social survey on intangible cultural heritage
-* 07/2016 Clear Water Project of Jane Goodall's Roots & Shoots 
-* 03/2016-06/2016 Volunteer in community tutor 
-* 08/2015 Volunteer in "Sustainable Seafood Week" of WWF
 
