@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! My name is **Yangbing Xu** (**徐杨冰** in Chinese) and I am a Ph.D. candidate in the Department of Ocean Science at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). I received my B.S. in Aquaculture in 2019 from the [Ocean University of China (OUC)](https://www.ouc.edu.cn/).
 
-I am working under the supervision of [Prof. Charmaine Yung](https://www.charmaineyung.com/). My research delved into the ecology and evolution of eukaryotic phytoplankton and their viruses with the combination of traditional cultivation, physiology, and multi-omics approaches.
+I am working under the supervision of [Prof. Charmaine Yung](https://www.charmaineyung.com/). My research delves into the ecology and evolution of eukaryotic phytoplankton and their viruses with the combination of traditional cultivation, physiology, and multi-omics approaches.
 
 ### I am currently interested in answering the following questions: 
 1. What is the extent of biodiversity within eukaryotic phytoplankton and the viruses that infect them? 
