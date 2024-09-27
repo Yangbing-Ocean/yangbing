@@ -12,7 +12,7 @@ title                    : "Yangbing Xu"
 title_separator          : "-"
 name                     : &name "Yangbing Xu | 徐杨冰 "
 description              : &description "personal description"
-url                      : https://yangbing-ocean.github.io/yangbing # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yangbing-ocean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
