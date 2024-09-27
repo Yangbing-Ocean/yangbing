@@ -18,12 +18,18 @@ Education
 
 Honors and Awards
 ======
-**2022,2023,2024** HKUST RedBird Academic Excellence Award for Continuing PhD Students,
+**2022,2023,2024** HKUST RedBird Academic Excellence Award for Continuing PhD Students
+
 **2019** Outstanding Graduates of Shangdong Province
+
 **2018** Excellent Student Scholarship (_The highest honor for undergraduate of OUC_) 
+
 **2016,2017,2018** First Class Scholarship
+
 **2016, 2017** National Scholarship
+
 **2017** The Outstanding Young Volunteer 
+
 **2017** Xiamen University MEL Summer Undergraduate Research Fellowship
 
 Skills
