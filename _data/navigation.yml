@@ -6,13 +6,13 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://yangbing-ocean.github.io/yangbing/publications/
 
   - title: "Projects"
-    url: /markdown/
+    url: https://yangbing-ocean.github.io/yangbing/markdown/
         
   - title: "Footprint"
-    url: /year-archive/
+    url: https://yangbing-ocean.github.io/yangbing/year-archive/
     
   - title: "CV"
     url: https://yangbing-ocean.github.io/yangbing/cv/
