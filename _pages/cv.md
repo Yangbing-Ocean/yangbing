@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-**You can find my CV here: [Yangbing XU's Curriculum Vitae](../assets/CV_Yangbing_Xu.pdf)**
+**You can find my CV here: [Yangbing XU's Curriculum Vitae](https://github.com/Yangbing-Ocean/yangbing/blob/master/assets/CV_Yangbing_Xu.pdf)**
 
 
 Education
