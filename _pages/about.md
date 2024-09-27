@@ -14,7 +14,7 @@ I am working under the supervision of [Prof. Charmaine Yung](https://www.charmai
 ### I am currently interested in answering the following questions: 
 1. What is the extent of biodiversity within eukaryotic phytoplankton and the viruses that infect them? 
 2. Is it possible to acquire high-quality eukaryotic and viral genomes without the need for cultivation?
-3. What are the evolutionary origins and early diversification of the early green lineage? and how about giant viruses?
+3. What are the evolutionary origins and diversification of the early green lineage? and how about giant viruses?
 4. Who is the host of a specific marine viruses?
 5. How will the impacts of climate change reshape the composition and dynamics of phytoplankton communities?
 
