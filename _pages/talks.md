@@ -13,6 +13,7 @@ redirect_from:
 * **Marine Microbes Gordon Research Conference (GRC), Les Diablerets, Switzerland**: Hidden genomic diversity drives niche partitioning in a cosmopolitan eukaryotic picophytoplankton. (Poster)
  ![avatar](https://github.com/Yangbing-Ocean/yangbing/blob/master/images/GRC.jpg)
 * **International Webinar Series for Young Scholars: “Cutting-edge Research on Marine Science and Engineering”, Hong Kong SAR, China**: Exploring the Genomic Landscape: Diversity and Niche Adaptation in a Cosmopolitan Eukaryotic Picophytoplankton. (Oral)
+* **Comparative genomics of unicellular eukaryotes (CGUE): Interactions and symbioses, Sant Feliu de Guixols, Spain**: Reconstruction of eukaryotic genomes reveals the diversification and adaptation of cosmopolitan picophytoplankton Mamiellales. (Poster)
 
 2023
 ======
